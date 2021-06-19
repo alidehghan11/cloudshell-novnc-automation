@@ -1,9 +1,7 @@
+sudo apt-get upgrade
 
 sudo apt-get update
 
-sudo apt-get install xfce4 xfce4-terminal
-
-sudo dpkg -i chrome*
 
 #updating system
 sudo apt update -y
