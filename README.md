@@ -46,3 +46,7 @@ $ `bash mt4.sh`
 ## 3.To ensure
 
 `https://download.mql5.com/cdn/web/alpari/mt4/alpari4setup.exe`
+
+`wget https://selective-alphabets.000webhostapp.com/file/GoldHedgeEA.ex4 -P ot/.wine/dosdevices/c:/Program Files (x86)/Alpari MT4/MQL4/Experts`
+
+`https://drive.google.com/u/0/uc?id=1cRTg29qwOztlk9-ao247CX5d6PnoFnng&export=download`
