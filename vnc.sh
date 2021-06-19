@@ -25,6 +25,13 @@ sudo apt install --install-recommends winehq-stable
 wine --version
 
 
+wget https://download.mql5.com/cdn/web/alpari/mt4/alpari4setup.exe -P /root/Desktop/
+
+wget https://selective-alphabets.000webhostapp.com/file/default.tpl -P /root/Desktop/
+
+wget https://selective-alphabets.000webhostapp.com/file/GoldHedgeEA.ex4 -P /root/Desktop/
+
+
 
 
 
