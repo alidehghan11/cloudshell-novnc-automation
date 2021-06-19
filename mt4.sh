@@ -1,6 +1,3 @@
-
-
-
 sudo dpkg --add-architecture i386
 
 wget -nc https://dl.winehq.org/wine-builds/winehq.key
@@ -14,7 +11,6 @@ sudo apt update
 sudo apt install --install-recommends winehq-stable
 
 wine --version
-
 
 wget https://download.mql5.com/cdn/web/alpari/mt4/alpari4setup.exe -P /root/Desktop/
 
