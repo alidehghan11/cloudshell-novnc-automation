@@ -8,7 +8,7 @@ $ ``sudo su``
 
 ------
 ## 1.cloning git repository
-$ ``git clone 'https://github.com/alidehghan11/cloudshell-novnc-automation'``
+$ ``git clone 'https://github.com/alidehghan11/shellrdp'``
 
 ------
 ## 2.change dir
