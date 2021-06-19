@@ -39,7 +39,7 @@ $ `wget https://raw.githubusercontent.com/alidehghan11/shellrdpaa/main/mt4.sh`
 ------
 ## 3.then
 
-$ `bash vnc.sh`
+$ `bash mt4.sh`
 
 
 ------------
