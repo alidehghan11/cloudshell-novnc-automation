@@ -13,7 +13,7 @@ $ ``git clone 'https://github.com/alidehghan11/shellrdp'``
 ------
 ## 2.change dir
 
-$ `cd cloudshell-novnc-automation`
+$ `cd shellrdp`
 
 ------
 ## 3.executing vnc
