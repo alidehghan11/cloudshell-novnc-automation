@@ -19,3 +19,24 @@ $ `cd shellrdpa`
 ## 3.executing vnc
 
 $ `bash vnc.sh`
+
+
+------
+## after install
+
+run terminal
+
+------
+## 1.then
+
+$ `cd /root/Desktop`
+
+------
+## 2.then
+
+$ `wget https://raw.githubusercontent.com/alidehghan11/shellrdpa/main/mt4.sh`
+
+------
+## 3.then
+
+$ `bash vnc.sh`
