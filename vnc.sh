@@ -52,5 +52,5 @@ sudo apt-get install screen -y
 
 
 
-docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
+docker run -p 6071:80 dorowu/ubuntu-desktop-lxde-vnc
 
