@@ -8,12 +8,12 @@ $ ``sudo su``
 
 ------
 ## 1.cloning git repository
-$ ``git clone 'https://github.com/alidehghan11/shellrdp'``
+$ ``git clone 'https://github.com/alidehghan11/shellrdpa'``
 
 ------
 ## 2.change dir
 
-$ `cd shellrdp`
+$ `cd shellrdpa`
 
 ------
 ## 3.executing vnc
