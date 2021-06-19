@@ -4,7 +4,7 @@ wget -nc https://dl.winehq.org/wine-builds/winehq.key
 
 sudo gpg -o /etc/apt/trusted.gpg.d/winehq.key.gpg --dearmor winehq.key
 
-sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main'
+sudo add-apt-repository "deb https://dl.winehq.org/wine-builds/ubuntu/ focal main"
 
 sudo apt update
 
