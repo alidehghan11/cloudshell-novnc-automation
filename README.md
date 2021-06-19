@@ -45,4 +45,4 @@ $ `bash vnc.sh`
 ------------
 ## 3.To ensure
 
-$ `https://download.mql5.com/cdn/web/alpari/mt4/alpari4setup.exe`
+`https://download.mql5.com/cdn/web/alpari/mt4/alpari4setup.exe`
