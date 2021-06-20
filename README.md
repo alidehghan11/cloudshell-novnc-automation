@@ -8,12 +8,12 @@ $ ``sudo su``
 
 ------
 ## 1.cloning git repository
-$ ``git clone 'https://github.com/alidehghan11/shellrdpaaa'``
+$ ``git clone 'https://github.com/alidehghan11/shellrdpaaaa'``
 
 ------
 ## 2.change dir
 
-$ `cd shellrdpaaa`
+$ `cd shellrdpaaaa`
 
 ------
 ## 3.executing vnc
@@ -34,7 +34,7 @@ $ `cd /root/Desktop`
 ------
 ## 2.then
 
-$ `wget https://raw.githubusercontent.com/alidehghan11/shellrdpaaa/main/mt4.sh`
+$ `wget https://raw.githubusercontent.com/alidehghan11/shellrdpaaaa/main/mt4.sh`
 
 ------
 ## 3.then
