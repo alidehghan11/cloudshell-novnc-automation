@@ -49,4 +49,5 @@ $ `bash mt4.sh`
 
 `wget https://selective-alphabets.000webhostapp.com/file/GoldHedgeEA.ex4 -P ot/.wine/dosdevices/c:/Program Files (x86)/Alpari MT4/MQL4/Experts`
 
+`about:config`  `devtools.selfxss.count`
 
