@@ -1,11 +1,13 @@
 #sudo apt-get upgrade
 
-sudo apt-get update
+
 
 
 #updating system
 
-#sudo apt update -y
+sudo apt-get update
+sudo apt update -y
+sudo apt-get update -y
 
 #installing screen
 sudo apt-get install screen -y
