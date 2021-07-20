@@ -8,4 +8,5 @@ sudo /etc/init.d/xrdp restart
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 unzip ngrok-stable-linux-amd64.zip
 ./ngrok authtoken 1rRWaSdjq3ncd0ta9jToWSZSS3W_5cqyLvK9SsPTLMaYJcLAo
+passwd
 ./ngrok tcp 3389
